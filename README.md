@@ -1,2 +1,2 @@
 # Hello-World
-This is the beginnign
+This is the beginning
